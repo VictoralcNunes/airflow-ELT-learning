@@ -1,0 +1,1 @@
+SELECT count(c.customer_id) FROM customers c
