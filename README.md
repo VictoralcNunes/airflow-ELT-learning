@@ -1,7 +1,7 @@
 # Airflow ELT Learning (Astro)
 
 Este repositório contém um projeto de exemplo para aprender a desenvolver pipelines ELT com **Apache Airflow** + **Astro Runtime**.
-
+O exercício foi proposto pela Indicium durante o Ciclo Preparatório para o Programa Lighthouse 26-1.
 ---
 
 ## 🚀 Objetivo
